@@ -1,0 +1,3 @@
+1.Kindly create two folders, one is "logs" for getting pnl and other is "charts"
+2.Make sure that "logs" folder contains the pnl csv file
+3.Csv file should contain 4 columns in a sequence "timestamp", "pnl","pts","roc" with data
